@@ -63,6 +63,16 @@
             bindings = <&kp TAB>;
             key-positions = <21 22>;
         };
+
+        c-spc {
+            bindings = <&kp LC(SPACE)>;
+            key-positions = <13 12>;
+        };
+
+        esc {
+            bindings = <&kp ESCAPE>;
+            key-positions = <1 2>;
+        };
     };
 
     keymap {
