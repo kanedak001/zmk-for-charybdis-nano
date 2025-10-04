@@ -83,7 +83,7 @@ layers:
   - {t: '8', s: '*'}
   - {t: '9', s: (}
   - '@'
-  - INT YEN
+  - $$mdi:alpha-w-box$$
   - '*'
   - +
   - {t: '-', s: _}
