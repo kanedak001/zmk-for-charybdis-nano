@@ -98,10 +98,10 @@
 
         num {
             bindings = <
-&kp DOLLAR   &kp LT     &kp EQUAL     &kp GT     &kp CARET      &kp AMPS   &kp N7  &kp N8  &kp N9  &kp AT
-&kp INT_YEN  &kp STAR   &kp PLUS      &kp MINUS  &kp UNDER      &kp PIPE   &kp N4  &kp N5  &kp N6  &kp N0
-&kp SEMI     &kp COLON  &kp QUESTION  &kp EXCL   &kp PERCENT    &kp TILDE  &kp N1  &kp N2  &kp N3  &kp SLASH
-                        &kp COMMA     &mo 4      &kp DELETE     &none      &none
+&kp DOLLAR  &kp LT     &kp EQUAL     &kp GT     &kp CARET      &kp AMPS   &kp N7  &kp N8  &kp N9  &kp AT
+&caps_word  &kp STAR   &kp PLUS      &kp MINUS  &kp UNDER      &kp PIPE   &kp N4  &kp N5  &kp N6  &kp N0
+&kp SEMI    &kp COLON  &kp QUESTION  &kp EXCL   &kp PERCENT    &kp TILDE  &kp N1  &kp N2  &kp N3  &kp SLASH
+                       &kp COMMA     &mo 4      &kp DELETE     &none      &none
             >;
         };
 
