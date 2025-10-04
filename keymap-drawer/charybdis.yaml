@@ -185,3 +185,7 @@ combos:
   k: '&paren'
 - p: [21, 22]
   k: $$mdi:keyboard-tab$$
+- p: [13, 12]
+  k: Ctl+$$mdi:keyboard-space$$
+- p: [1, 2]
+  k: $$mdi:keyboard-esc$$
