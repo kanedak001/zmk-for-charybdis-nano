@@ -115,9 +115,9 @@ layers:
   - PgUp
   - $$mdi:brightness-5$$
   - $$mdi:volume-high$$
-  - '{'
+  - {t: '[', s: '{'}
   - '"'
-  - '}'
+  - {t: ']', s: '}'}
   - '#'
   - HOME
   - $$mdi:arrow-left-bold$$
@@ -135,9 +135,9 @@ layers:
   - PG DN
   - $$mdi:brightness-7$$
   - $$mdi:volume-low$$
-  - {t: '[', s: '{'}
+  - '{'
   - {t: '`', s: '~'}
-  - {t: ']', s: '}'}
+  - '}'
   - {t: \, s: '|'}
   - $$mdi:progress-download$$
   - {t: '$$mdi:minus-circle-outline$$', type: held}
