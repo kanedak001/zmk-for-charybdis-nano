@@ -107,9 +107,9 @@
 
         nav {
             bindings = <
-&kp LA(LEFT)  &kp LA(RIGHT)     &kp UP_ARROW        &kp PAGE_UP  &kp C_BRIGHTNESS_INC    &kp C_VOLUME_UP  &kp LBRC  &kp DOUBLE_QUOTES  &kp RBRC  &kp HASH
-&kp HOME      &kp LEFT_ARROW    &kp DOWN            &kp RIGHT    &kp END                 &kp K_MUTE       &kp LPAR  &kp SINGLE_QUOTE   &kp RPAR  &bt BT_SEL 3
-&kp C_REWIND  &kp K_PLAY_PAUSE  &kp C_FAST_FORWARD  &kp PG_DN    &kp C_BRI_DEC           &kp C_VOL_DN     &kp LBKT  &kp GRAVE          &kp RBKT  &kp BACKSLASH
+&kp LA(LEFT)  &kp LA(RIGHT)     &kp UP_ARROW        &kp PAGE_UP  &kp C_BRIGHTNESS_INC    &kp C_VOLUME_UP  &kp LBKT        &kp DOUBLE_QUOTES  &kp RBKT  &kp HASH
+&kp HOME      &kp LEFT_ARROW    &kp DOWN            &kp RIGHT    &kp END                 &kp K_MUTE       &kp LPAR        &kp SINGLE_QUOTE   &kp RPAR  &bt BT_SEL 3
+&kp C_REWIND  &kp K_PLAY_PAUSE  &kp C_FAST_FORWARD  &kp PG_DN    &kp C_BRI_DEC           &kp C_VOL_DN     &kp LEFT_BRACE  &kp GRAVE          &kp RBRC  &kp BACKSLASH
                                 &bootloader         &none        &sys_reset              &kp DELETE       &mo 4
             >;
         };
