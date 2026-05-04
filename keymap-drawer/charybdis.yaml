@@ -116,7 +116,7 @@ layers:
   - $$mdi:brightness-5$$
   - $$mdi:volume-high$$
   - {t: '[', s: '{'}
-  - '"'
+  - {t: '''', s: '"'}
   - {t: ']', s: '}'}
   - '#'
   - HOME
@@ -126,7 +126,7 @@ layers:
   - END
   - MUTE
   - (
-  - {t: '''', s: '"'}
+  - '"'
   - )
   - {h: '4', s: '$$mdi:bluetooth-connect$$'}
   - REWIND
